@@ -1,0 +1,22 @@
+KEEP FILES CONFIENDEITAL FOR GAME EVENTS AND GAMEMODES AND ALSO STORE ITEMS OR OTHER CONFIDENTIAL TOOLS:
+startup = 'must true'
+main startup menu fortnite = 'must true'
+
+LTM MODES:
+'50 v 50 2' = active ('true') end = 5.25.2018 / 4:30 A
+'Solo Showdown' = active ('true') end = 5.22.2018 / 4:30 A
+'Thanos Infinity Gauntlet' = active ('false') end = 5.16.2018 / 4:30 A
+'Sniper Shootoff' = active ('false) end = 3.21.2018 / 4:30 A
+
+NORMAL MODES:
+'Solo' = active ('true') end = never
+'Duos' = active ('true) end = never
+'Squads' = active ('true') end = never
+
+ITEM SHOP: 
+'Snorkle Ops' = active ('true') end = 24h
+'Skele Ops' = active ('true') end = 24h
+'Bombair' = active ('true') end = 24h
+
+FEATURED ITEM SHOP:
+'Skeleton Leader Ops' = active ('true') 1d
