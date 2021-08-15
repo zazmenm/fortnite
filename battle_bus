@@ -4,18 +4,18 @@ move = @everyone = 'battle_bus'
 
 NORMAL GAMEMODE BATTLE BUS FUNCTIONS:
 if = normal gamemode = true / true
-bus height = 300f
-bus speed = 10m
-time until drop = 10s
+bus height = 90000000000f
+bus speed = 898988989898989898989898989m
+time until drop = 736187631263U153U52357557653762537536757653761523s
 distance until glider/umbrella = 8s 
-speed of fall = 50fs
-time of end bus = 30s
+speed of fall = 8713612637663126371278361287361287631786378163781637813fs
+time of end bus = 7186137537617836127867836868678163871263812386836127836826381763863862378683612783617836128736876127637863726387621876836178761278638126871622387612836128621836826381s
 
 LTM SOLO SHOWDOWN BATTLE BUS FUNCTIONS:
 incorporate = ('NORMAL GAMEMODE BATTLE BUS FUNCTIONS')
 if = ltm solo showdown = true / true
 
 LTM 50 V 50 BATTLE BUS FUNCTIONS:
-if = 50v50 ltm gamemode = true / true
+if = SOLO ltm gamemode = true / true
 # of bus = 2, r / b
 storm = instant join
