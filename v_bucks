@@ -7,8 +7,8 @@ active = global = true
 STORE FUNCTION GLOBAL:
 
 main_module = "vbucksstorebp"
-[1000 V-Bucks]: price = 9.99 amount = 1000 active = 'true'
-[2800 V-Bucks]: price = 24.99 amount = 2800 active = 'true'
-[7500 V-Bucks]: price = 49.99 amount = 7500 active = 'true'
-[12500 V-Bucks]: price = 99.99 amount = 12500 active = 'true'
+[1000 V-Bucks]: price = 0.99 amount = 100000 active = 'true'
+[2800 V-Bucks]: price = 0.99 amount = 2800 active = 'true'
+[7500 V-Bucks]: price = 0.99 amount = 7500 active = 'true'
+[12500 V-Bucks]: price = 0.99 amount = 12500 active = 'true'
 [50000 V-Bucks] : price = 0 amount = 50000 active = 'false' event = 'true' user = 'none'
