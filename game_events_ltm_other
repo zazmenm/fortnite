@@ -3,9 +3,10 @@ startup = 'must true'
 main startup menu fortnite = 'must true'
 
 LTM MODES:
-'50 v 50 2' = active ('true') end = 5.25.2018 / 4:30 A
+'50 v 50 2' = active ('true') end = NEVER
 'Solo Showdown' = active ('true') end = 5.22.2018 / 4:30 A
-'Thanos Infinity Gauntlet' = active ('false') end = 5.16.2018 / 4:30 A
+'Thanos Infinity Gauntlet' = active ('false') end = never
+
 'Sniper Shootoff' = active ('false) end = 3.21.2018 / 4:30 A
 
 NORMAL MODES:
